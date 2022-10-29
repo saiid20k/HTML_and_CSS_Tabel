@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+table{
+    width: 55%;
+    margin: 10px auto;
+}
+
+th{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+}
+
+td{
+    background-color: #EEE;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+img{
+    width: 55px;
+}
+
+span{
+    margin: 2px;
+    padding: 10px;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.view{
+    background: blue;
+}
+
+.delete{
+    background: red;
+}
